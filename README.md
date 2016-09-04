@@ -1,6 +1,6 @@
 # HtmlToXmlConverter
+C# utility to convert any HTML to well formed and formatted XML/
 Just paste HTML and get your XML!
-
 
 # Usage:
 
